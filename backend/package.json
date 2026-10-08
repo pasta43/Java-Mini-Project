@@ -1,0 +1,15 @@
+{
+  "name": "restaurant-table-booking-backend",
+  "version": "1.0.0",
+  "description": "Minimal backend for Restaurant Table Booking with Minimoth OTP authentication",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "jsonwebtoken": "^9.0.2"
+  }
+}
