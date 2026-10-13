@@ -56,3 +56,4 @@ if (checkTables.count === 0) {
 }
 
 module.exports = db;
+

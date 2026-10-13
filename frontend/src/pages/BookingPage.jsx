@@ -185,3 +185,4 @@ export function BookingPage({ user, onNavigateToMyBookings }) {
     </div>
   );
 }
+

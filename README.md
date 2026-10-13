@@ -120,3 +120,4 @@ Open your browser at **`http://localhost:5173`**.
 │           └── MyBookingsPage.jsx # Page 3: User Reservations
 └── README.md
 ```
+

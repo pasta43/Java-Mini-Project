@@ -70,3 +70,4 @@ export function MyBookingsPage({ onNavigateToBook }) {
     </div>
   );
 }
+

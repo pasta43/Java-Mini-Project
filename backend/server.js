@@ -274,3 +274,4 @@ app.listen(PORT, () => {
   console.log(`[Server] Restaurant Table Booking backend running on http://localhost:${PORT}`);
   console.log(`[Server] Minimoth API Key status: ${MINIMOTH_API_KEY === 'mock' ? 'MOCK DEV MODE (Default OTP 123456)' : 'LIVE CONFIGURED'}`);
 });
+

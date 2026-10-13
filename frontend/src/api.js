@@ -73,3 +73,4 @@ export async function getMyBookings() {
   }
   return data.bookings;
 }
+
